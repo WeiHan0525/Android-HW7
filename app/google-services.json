@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "240400513118",
+    "firebase_url": "https://hotel-b4828.firebaseio.com",
+    "project_id": "hotel-b4828",
+    "storage_bucket": "hotel-b4828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240400513118:android:1e6b848787dedc6c",
+        "android_client_info": {
+          "package_name": "com.example.weihan.hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240400513118-37aolk9rbcnvusidov3r049r1f54mli6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weihan.hotel",
+            "certificate_hash": "bc5db94af39ebb7a019b7dbff6f8671fd6e880ea"
+          }
+        },
+        {
+          "client_id": "240400513118-ltl24i21ug9ch26tpfjmkk3r0sot32dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJbkvEjKUmHEAq7LvezhUFZgYxSgO1RVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240400513118-ltl24i21ug9ch26tpfjmkk3r0sot32dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
